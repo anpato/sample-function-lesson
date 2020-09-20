@@ -8,7 +8,6 @@ By the end of this lesson, students will be able to:
 - Differentiate between a function expression and a function declaration
 - Call/Invoke different functions
 - Revisit printing to the console
-- Writing mathematic equations in Javascript
 - Revisiting Variables
 
 ## What is a Function
