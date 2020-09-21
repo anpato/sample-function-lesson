@@ -12,6 +12,12 @@ By the end of this lesson, students will be able to:
 
 ## What is a Function
 
+### You Do (2 min)
+
+Using our favorite developer tool, Google. Perform a quick search on `what is a function in javascript`.
+
+### We Do
+
 [MDN Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions#:~:text=A%20function%20in%20JavaScript%20is,the%20input%20and%20the%20output.):
 
 > Functions are one of the fundamental building blocks in JavaScript. A function in JavaScript is similar to a procedure—a set of statements that performs a task or calculates a value, but for a procedure to qualify as a function, it should take some input and return an output where there is some obvious relationship between the input and the output.
