@@ -30,6 +30,50 @@ function addNumber() {
 }
 ```
 
+Using the example functions above, if we wanted to print dog to the console several times, we would `call` or `invoke` them.
+
+Example:
+
+```js
+function printDog() {
+  console.log('Dog')
+}
+
+printDog()
+printDog()
+printDog()
+
+function addNumber() {
+  console.log(1 + 1)
+}
+```
+
+In our console we would see `Dog` printed 3 times like this:
+
+```sh
+Dog
+Dog
+Dog
+```
+
+## Invoking/Calling Functions
+
+Once a function is defined, we can use it by `invoking` or `calling` it.
+Invoking a function is the action of telling the function we defined to activate or execute.
+
+To invoke a function we take the function name and add opening and closing parentheses to it like so:
+
+Example:
+
+```js
+// Defining a function
+function printCat() {
+  console.log('Cat')
+}
+// Invoking or Calling a function
+printCat()
+```
+
 ## Function Naming Conventions
 
 Functions are named based on the action that they should perform. For example if a function should only print `dog` to the console, we would name the function `printDog`.
@@ -84,24 +128,6 @@ function printIceCream() {
 ```
 
 ---
-
-## Invoking/Calling Functions
-
-Once a function is defined, we can use it by `invoking` or `calling` it.
-Invoking a function is the action of telling the function we defined to activate or execute.
-
-To invoke a function we take the function name and add opening and closing parentheses to it like this:
-
-Example:
-
-```js
-// Defining a function declaration
-function printCat() {
-  console.log('Cat')
-}
-// Invoking or Calling a function declaration
-printCat()
-```
 
 ### We Do
 
